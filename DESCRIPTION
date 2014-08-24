@@ -1,9 +1,9 @@
 Package: techhatch
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Collection of utilities provided by Technology Hatchery
+Version: 0.1
 Date: 2014-08-23
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Alfred Wechselberger <alfred.wechselberger@technologyhatchery.com>
+Maintainer: Alfred Wechselberger <alfred.wechselberger@technologyhatchery.com>
+Description: Technology Hatchery uses various R functions internally for such things as processing data and generating predictive analytics.  This package will be periodically but infrequently updated.
+License: GPL (>= 2)
